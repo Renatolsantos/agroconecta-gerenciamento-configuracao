@@ -14,3 +14,7 @@ Organizar informações básicas de atividades agrícolas, permitindo registrar 
 
 ## Controle de versão
 Este projeto será armazenado em um repositório GitHub para demonstrar clonagem, alteração, criação de artefatos e publicação das mudanças.
+
+## Atualização da prática
+Repositório atualizado localmente durante a atividade
+de gerenciamento de configuração de software.
